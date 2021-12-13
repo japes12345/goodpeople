@@ -1,0 +1,26 @@
+{
+  "name": "goodpeople",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japes12345/goodpeople.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "10.x"
+  },
+  "bugs": {
+    "url": "https://github.com/japes12345/goodpeople/issues"
+  },
+  "homepage": "https://github.com/japes12345/goodpeople#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
